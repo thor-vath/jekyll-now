@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A network and application penetration tester, a red teamer, and general infosec and tech person.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thor-vath@completelylegit.com](mailto:thor-vath@completelylegit.com)
